@@ -3,13 +3,13 @@ package com.example.kotlinpractice
 
 fun main(args: Array<String>) {
     //Please remove the comments sign if you want to get the code output
-   val obj = UserInput()
+    val obj = UserInput()
     //obj.a()
     val obj1 = Operators()
     //obj1.arithmatic()
     //obj1.relational()
     //obj1.logical()
-    obj1.assigment()
+    //obj1.assigment()
 
 
 }
